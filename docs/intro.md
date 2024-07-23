@@ -8,7 +8,7 @@ poetry new intro python
 
 Como ativar o ambiente virtual do projeto onde estarão os pacotes utilizados nele:
 
-Crie o arquivo chamado poetry.toml e dentro escreva:
+Crie o arquivo chamado `poetry.toml` e dentro escreva:
 
 ```s
 [virtualenvs]
